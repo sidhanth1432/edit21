@@ -193,7 +193,7 @@ let RICE = [{
     "price":12.34
 }];
         
-let category=[{"id":0,"title":"rice"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"}];
+let category=[{"id":0,"title":"rice"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"},{"id":1,"title":"wheat"},{"id":2,"title":"pulse"}];
         document.addEventListener('DOMContentLoaded', ()=>{
                     showNavbar(category);
             
