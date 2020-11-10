@@ -489,7 +489,85 @@ category.forEach( item =>{
                 card3.appendChild(desc309);
              
                  aboutUsSection.appendChild(card3); 
+                    let card4 = document.createElement('div');
+                    let title4 = document.createElement('h3');
+                title4.textContent = 'How To Order:';
+                card4.appendChild(title4);
+                let desc4 = document.createElement('p');
+                desc4.textContent = 'Step 1:Scroll Down till you find a Title POPULAR CATEGORIES';
+                card4.appendChild(desc4);
+              
+                  let img41 = document.createElement('img');
+                 img41.src = '';
+                card4.appendChild(img41);
                     
+                    
+                    
+                    
+                      let desc42 = document.createElement('p');
+                desc42.textContent = 'Step 2:Select the product category From the Given Categories.example:if you would like to purchase baby soaps ,then select the category baby care(baby soaps) ';
+                card4.appendChild(desc42);
+
+                    
+                    
+                      let desc43= document.createElement('p');
+                desc43.textContent = 'Step 3:Click on ADD ITEM Button given below the thumbnail of the image you want to purchase.Upon clicking ADD ITEM button the product will be added to your cart section.';
+                card4.appendChild(desc43);
+                    
+                    
+                    let img44 = document.createElement('img');
+                 img44.src = '';
+                card4.appendChild(img44);
+
+                    
+                    
+
+                    
+                    
+                      let desc45 = document.createElement('p');
+                desc45.textContent = 'Step4:In the cart section you have an option to increase or decrease the quantity of the product you require.By clicking on +,increases the quantity.By clicking on -,decreases the quantity';
+                card4.appendChild(desc45);
+                    
+                    
+                    let img46 = document.createElement('img');
+                 img46.src = '';
+                card4.appendChild(img46);
+
+                    
+                    
+                      let desc47 = document.createElement('p');
+                desc47.textContent = 'Step5:Once you have created your list of products you wish to buy. Scroll to top of the page to find the link CLICK ONLY IF YOU HAVE MADE UP A FINAL ORDER!.upon clicking it ,you will be redirected to another web page';
+                card4.appendChild(desc47);
+
+                    
+                    
+                    
+                    let img48 = document.createElement('img');
+                 img48.src = '';
+                card4.appendChild(img48);
+                    
+                    
+                       let img49 = document.createElement('img');
+                 img49.src = '';
+                card4.appendChild(img49);
+                    
+                    
+                    
+                    
+                    
+                      let desc401 = document.createElement('p');
+                desc401.textContent = 'Step6:Enter your contact number and email id in the form blanks and click the send icon,upon clicking this your order has been placed . and we will contact you either on whatsapp or mail to discuss about the payment details and delivery schedule';
+                card4.appendChild(desc401);
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    aboutUsSection.appendChild(card4);
                     
                     
                     
