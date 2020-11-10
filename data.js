@@ -560,7 +560,9 @@ category.forEach( item =>{
                 card4.appendChild(desc401);
                     
                     
-                    
+                    let title402= document.createElement('h3');
+                title402.textContent = 'POPULAR CATEGORIES';
+                card4.appendChild(title402);
                     
                     
                     
