@@ -274,9 +274,9 @@ category.forEach( item =>{
                 
                 
                 
-                let title = document.createElement('p');
+                let title = document.createElement('h3');
                 title.textContent = item.title;
-              
+                title.className = 'title'
                 cartitem.appendChild(title);
                 
                 let controls = document.createElement('div');
